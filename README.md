@@ -14,11 +14,13 @@ This project is intended to be used with https://github.com/sniggel/vagrant-p4
 
 ## Structure
 (WIP)
-├── main.c\r
-├── Makefile\r
-├── of-tests\r
-│   └── tests\r
-├── p4src\r
-│   ├── switch.p4\r
-├── README.md\r
-└── run_tests.py\r
+```
+├── main.c
+├── Makefile
+├── of-tests
+│   └── tests
+├── p4src
+│   ├── switch.p4
+├── README.md
+└── run_tests.py
+```
