@@ -34,3 +34,4 @@ control ingress {
 
 control egress {
     apply(acl);
+}
