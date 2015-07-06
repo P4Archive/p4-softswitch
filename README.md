@@ -24,3 +24,5 @@ This project is intended to be used with https://github.com/sniggel/vagrant-p4
 ├── README.md
 └── run_tests.py
 ```
+# Note
+Some of the source code in this project came with an Apache License. Some files may have been modified, some not, I kept the original header for every files that were taken from the p4lang github repository.
