@@ -20,7 +20,10 @@ This project is intended to be used with https://github.com/sniggel/vagrant-p4
 ├── of-tests
 │   └── tests
 ├── p4src
-│   ├── switch.p4
+│   ├── softswitch.p4
+│   └── includes
+│       ├── headers.p4
+│       └── parser.p4
 ├── README.md
 └── run_tests.py
 ```
