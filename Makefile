@@ -9,7 +9,7 @@ export TARGET_ROOT := $(abspath $(dir $(lastword $(MAKEFILE_LIST))))
 include /p4/p4factory/init.mk
 
 ifndef P4FACTORY
-P4FACTORY := /p4/p4factory/makefiles
+P4FACTORY := /p4/p4factory
 endif
 MAKEFILES_DIR := ${P4FACTORY}/makefiles
 
